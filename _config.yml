@@ -1,11 +1,11 @@
 # Site settings
 author: Randall Williams
-title: 
+title: The Developers Advocate 
 header-img: img/home-bg.png
 email: randallw1996@gmail.com
 copyright_name: Randall Williams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An aspiring Software Engineers journey to learn code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Vito60
