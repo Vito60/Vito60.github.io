@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What is Redux and Why Use it"
-date:       2020-05-18 17:54:17 +0000
+date:       2020-05-18 13:54:18 -0400
 permalink:  what_is_redux_and_why_use_it
 ---
 
